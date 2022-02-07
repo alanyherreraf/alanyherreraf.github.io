@@ -7,17 +7,25 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+Graduate Research Assistant, University of Rochester
 
 ## Education
+University of Rochester PhD in Chemistry
+
+2019 - 2020University of Rochester MS in Chemistry
+
+
+`2019 - 2021`
+__University of Rochester__ 
+Ms. in Physics
 
 `1990 - 1994`
-__University Name__
-Degree Awarded
+__University Name AAAAA__ BBBBBB
+Degree Awarded 123456789
 
 `1995 - 1997`
 __University Name__
-Degree Awarded 
+Degree Awarded ZZZZZZZ
 
 ## Awards
 
